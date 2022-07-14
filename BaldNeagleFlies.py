@@ -7,3 +7,8 @@ print(two)
 three = 2 + 1
 print(three)
 
+four = 2 + 2
+print(four)
+
+five = 3 + 2
+print(five)
