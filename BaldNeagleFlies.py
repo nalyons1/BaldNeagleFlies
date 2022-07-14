@@ -12,3 +12,6 @@ print(four)
 
 five = 3 + 2
 print(five)
+
+six = 3 + 3
+print(six)
